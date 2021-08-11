@@ -51,7 +51,7 @@ h3 {
         display: flex;
         flex-direction: column;
         padding: 10px;
-        background-color: hsl(244, 38%, 16%);
+        /*background-color: hsl(244, 38%, 16%);*/
     }
 
     #card-text >.text-header {
@@ -98,7 +98,7 @@ h3 {
         flex-direction: column;
         padding: 20px;
         width: 50%;
-        background-color: hsl(244, 38%, 16%);
+        /*background-color: hsl(244, 38%, 16%);*/
     }
 
     #card-text >.text-header {
