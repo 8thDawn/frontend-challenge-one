@@ -41,12 +41,14 @@ h3 {
         border-radius: 10px 10px 0 0;
         background-color: hsl(277, 64%, 61%);
         background-blend-mode: screen;
+        height: 50%;
     }
 
     img {
         width: 100%;
         opacity: 0.4;
         border-radius: inherit;
+        height: 100%;
     }
 
     #card-text {
@@ -105,6 +107,7 @@ h3 {
         padding: 10px 20px 10px 30px;
         margin: 20px;
         width: 50%;
+        justify-content: space-around;
         /*background-color: hsl(244, 38%, 16%);*/
     }
 
