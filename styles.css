@@ -29,7 +29,7 @@ h3 {
 
 
 /**Mobile**/
-@media only screen and (max-width:375px) {
+@media only screen and (min-width:375px) {
     #card {
         display: flex;
         flex-direction: column;
@@ -75,7 +75,7 @@ h3 {
 }
 
 /**Desktop**/
-@media only screen and (min-width: 376px) /*and (max-width: 1440px)*/ {
+@media only screen and (min-width: 1440px) /*and (max-width: 1440px)*/ {
     .card-container {
        position: relative;
     }
